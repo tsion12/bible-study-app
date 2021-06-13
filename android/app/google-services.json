@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "763885900227",
+    "firebase_url": "https://reg-form-9b305.firebaseio.com",
+    "project_id": "reg-form-9b305",
+    "storage_bucket": "reg-form-9b305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763885900227:android:2df438df56f902298aad76",
+        "android_client_info": {
+          "package_name": "com.evasue.allover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763885900227-lj5on90p3427gilk3upql4skbsjv28lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVD9O-9Jp9-CCH7p0eoVTLBLM_9lvangk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763885900227-lj5on90p3427gilk3upql4skbsjv28lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
